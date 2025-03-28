@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EMU14500B/1.0.0": {
+        "runtime": {
+          "EMU14500B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMU14500B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

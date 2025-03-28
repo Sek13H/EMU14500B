@@ -1,0 +1,14 @@
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\EMU14500B.GeneratedMSBuildEditorConfig.editorconfig
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\EMU14500B.AssemblyInfoInputs.cache
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\EMU14500B.AssemblyInfo.cs
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\EMU14500B.csproj.CoreCompileInputs.cache
+D:\tools\C#\EMU14500B\EMU14500B\bin\Debug\net8.0\EMU14500B.exe
+D:\tools\C#\EMU14500B\EMU14500B\bin\Debug\net8.0\EMU14500B.deps.json
+D:\tools\C#\EMU14500B\EMU14500B\bin\Debug\net8.0\EMU14500B.runtimeconfig.json
+D:\tools\C#\EMU14500B\EMU14500B\bin\Debug\net8.0\EMU14500B.dll
+D:\tools\C#\EMU14500B\EMU14500B\bin\Debug\net8.0\EMU14500B.pdb
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\EMU14500B.dll
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\refint\EMU14500B.dll
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\EMU14500B.pdb
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\EMU14500B.genruntimeconfig.cache
+D:\tools\C#\EMU14500B\EMU14500B\obj\Debug\net8.0\ref\EMU14500B.dll
